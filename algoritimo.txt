@@ -1,0 +1,12 @@
+Pedir a escolha do player
+x ou o
+
+botão de iniciar
+
+abrir o jogo 
+
+colocar as letras como numeros aleatorios
+
+vc venceu
+ 
+ botão de recomeçar o jogo
