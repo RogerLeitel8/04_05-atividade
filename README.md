@@ -6,7 +6,7 @@
 - Function
 - For in
 - else if
-## Como jogar##
+## Como jogar
 - escolha entre x ou O..
 - posicione o elemento da sua escolha aonde desejar.
 - formando uma fileira de três elementos iguais.
